@@ -1,2 +1,2 @@
 # DSADP
-Data Strcutures and Algorithms of Data Processing
+Course work for Data Strcutures and Algorithms of Data Processing
